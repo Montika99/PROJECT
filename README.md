@@ -1,4 +1,5 @@
 # PROJECT
 My project about coding and excel
-- Sklearn & statsmodel Simple linear regression model by Python to predict big mac price
-- Multiple Linear Regression by Python to predict sales of stores
+# Machine learning
+  - Sklearn & statsmodel Simple linear regression model by Python to predict big mac price
+  - Multiple Linear Regression by Python to predict sales of stores
