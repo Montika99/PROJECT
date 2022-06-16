@@ -1,5 +1,5 @@
 # PROJECT
-My project about coding.
+My name is Montika Chaikittiporn. This is my project about coding.
 # Machine learning
   - Sklearn & statsmodel Simple linear regression model by Python to predict big mac price
   - Multiple Linear Regression by Python to predict sales of stores
