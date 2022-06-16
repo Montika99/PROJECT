@@ -6,3 +6,4 @@ My name is Montika Chaikittiporn. This is my project about coding.
   - Predict gold price by Python
 # Exploratory Data Analysis (EDA)
 - EDA on covid19 dataset by R (dataset : www.kaggle.com)
+# Dashboard
