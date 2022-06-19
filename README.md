@@ -8,3 +8,4 @@ My name is Montika Chaikittiporn. This is my project about coding.
   - EDA on covid19 dataset by R (dataset : www.kaggle.com)
 # Data Visualization
   - Disney movie data analysis by Tableau (https://public.tableau.com/views/DISNEYMOVIES/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+  - SFO Airport route by Tableau (https://public.tableau.com/app/profile/montika.chaikittiporn/viz/SFOairport_16555792706150/Dashboard)
